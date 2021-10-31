@@ -8,8 +8,8 @@ I am a final year Undergrad Student in Applied Computer Science and Engineering 
 - - 😄 Pronouns: He/His
 - 📫 How to reach me: ...
 
-LinkedIn			  https://www.linkedin.com/in/sven-eschlbeck-it-engineering
-Kaggle			    https://www.kaggle.com/sveneschlbeck
-Stackoverflow		https://stackoverflow.com/users/12965285/sven-eschlbeck
-XING			      https://www.xing.com/profile/Sven_Eschlbeck/cv
-PyPI			      https://pypi.org/user/sveneschlbeck/
+LinkedIn			  https://www.linkedin.com/in/sven-eschlbeck-it-engineering  
+Kaggle			    https://www.kaggle.com/sveneschlbeck  
+Stackoverflow		https://stackoverflow.com/users/12965285/sven-eschlbeck  
+XING			      https://www.xing.com/profile/Sven_Eschlbeck/cv  
+PyPI			      https://pypi.org/user/sveneschlbeck/  
