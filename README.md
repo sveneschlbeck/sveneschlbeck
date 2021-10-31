@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Sven 👋
 
-<!--
-**sveneschlbeck/sveneschlbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final year Undergrad Student in Applied Computer Science and Engineering with strong interests in Machine Learning, Data Analytics, Embedded Development and Hardware-Software-Interfaces. With 2+ years experience in the field of Health Care Market Research and Medical Records Analysis, I have gained deeper knowledge in Regression Modelling, Diagnosis Predictions and Application Development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ML Applications for medical diagnosis prediction
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on cool & interesting Open Source projects
+- - 😄 Pronouns: He/His
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+LinkedIn			  https://www.linkedin.com/in/sven-eschlbeck-it-engineering
+Kaggle			    https://www.kaggle.com/sveneschlbeck
+Stackoverflow		https://stackoverflow.com/users/12965285/sven-eschlbeck
+XING			      https://www.xing.com/profile/Sven_Eschlbeck/cv
+PyPI			      https://pypi.org/user/sveneschlbeck/
