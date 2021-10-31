@@ -5,7 +5,7 @@ I am a final year Undergrad Student in Applied Computer Science and Engineering 
 - 🔭 I’m currently working on ML Applications for medical diagnosis prediction
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on cool & interesting Open Source projects
-- - 😄 Pronouns: He/His
+- 😄 Pronouns: He/His
 - 📫 How to reach me: ...
 
 LinkedIn			  https://www.linkedin.com/in/sven-eschlbeck-it-engineering  
