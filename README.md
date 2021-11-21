@@ -13,3 +13,5 @@ Kaggle			    https://www.kaggle.com/sveneschlbeck
 Stackoverflow		https://stackoverflow.com/users/12965285/sven-eschlbeck  
 XING			      https://www.xing.com/profile/Sven_Eschlbeck/cv  
 PyPI			      https://pypi.org/user/sveneschlbeck/  
+
+<img src="https://i.gifer.com/origin/18/183e08cdc3ae87ee9c14fa74ef83a5b9.gif" width="900" height="450" />
