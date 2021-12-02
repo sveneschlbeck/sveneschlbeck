@@ -24,11 +24,11 @@ PyPI			      https://pypi.org/user/sveneschlbeck/
 ![](https://img.shields.io/badge/language-r-pink)
 ![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Pandas-brown)  
 ![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Keras-purple)
-![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Tensorflow-red)    
+![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Tensorflow-red) 
+![](https://img.shields.io/badge/OS-Windows-lightblue)
 ![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Scikit--learn-white)
 ![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Matplotlib-lightgrey)
 ![](https://img.shields.io/badge/tools-Git-lightgreen)
-![](https://img.shields.io/badge/OS-Windows-lightblue)
 
 ## &#x1f4c8; GitHub Stats
 
