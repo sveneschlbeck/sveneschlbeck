@@ -18,17 +18,17 @@ XING			      https://www.xing.com/profile/Sven_Eschlbeck/cv
 PyPI			      https://pypi.org/user/sveneschlbeck/  
 
 ## 🔧 Technologies & Tools
-https://img.shields.io/badge/language-c%2B%2B-green
-https://img.shields.io/badge/language-SQL-blue
-https://img.shields.io/badge/language-python-orange
-https://img.shields.io/badge/language-r-pink  
-https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Pandas-brown
-https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Keras-purple
-https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Tensorflow-red  
-https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Scikit--learn-white
-https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Matplotlib-lightgrey
-https://img.shields.io/badge/tools-Git-lightgreen
-https://img.shields.io/badge/OS-Windows-lightblue
+![](https://img.shields.io/badge/language-c%2B%2B-green)
+![](https://img.shields.io/badge/language-SQL-blue)
+![](https://img.shields.io/badge/language-python-orange)
+![](https://img.shields.io/badge/language-r-pink)    
+![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Pandas-brown)
+![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Keras-purple)
+![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Tensorflow-red)    
+![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Scikit--learn-white)
+![](https://img.shields.io/badge/packages%2C%20libraries%20%26%20frameworks-Matplotlib-lightgrey)
+![](https://img.shields.io/badge/tools-Git-lightgreen)
+![](https://img.shields.io/badge/OS-Windows-lightblue)
 
 ## &#x1f4c8; GitHub Stats
 
