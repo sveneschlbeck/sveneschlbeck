@@ -3,6 +3,7 @@
 # Hey, guys! <img src="https://raw.githubusercontent.com/sveneschlbeck/sveneschlbeck/master/wave.gif" width="30px">
 
 I'm Sven, a final year Undergrad Student in **Applied Computer Science and Engineering** with strong interests in Machine Learning, Data Analytics, Embedded Development and Hardware-Software-Interfaces. With **2+ years experience** in the field of Health Care Market Research and Medical Records Analysis, I have gained deeper knowledge in Regression Modelling, Diagnosis Predictions and Application Development.  
+
 Originally from southern Germany, I am soon to be found in Barcelona, Spain :desert_island:
 
 - 🔭 I’m currently working on ML Applications for medical diagnosis prediction
