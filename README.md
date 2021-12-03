@@ -10,7 +10,7 @@ Originally from southern Germany, I am soon to be found in Barcelona, Spain :des
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on cool & interesting Open Source projects
 - 😄 Pronouns: He/His
-- 📫 How to reach me: ...
+- 📫 How to find me on Social Media: ...
 
 LinkedIn			  https://www.linkedin.com/in/sven-eschlbeck-it-engineering  
 Kaggle			    https://www.kaggle.com/sveneschlbeck  
@@ -39,5 +39,7 @@ PyPI			      https://pypi.org/user/sveneschlbeck/
 <a href="https://github.com/sveneschlbeck/sveneschlbeck">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sveneschlbeck&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sven's GitHub Stats" />
 </a>  
+
+## Contact
 
 ![Footer](https://raw.githubusercontent.com/sveneschlbeck/sveneschlbeck/master/contact.gif "Footer")
